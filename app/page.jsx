@@ -1223,7 +1223,7 @@ export default function NexaMindLanding() {
                     </div>
 
                     <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-zinc-500">
-                        <p>© {new Date().getFullYear()} NexaMind AI Inc. All rights reserved.</p>
+                        <p>© 2026 NexaMind AI Inc. All rights reserved.</p>
                         <div className="flex items-center gap-6">
                             <a href="#" className="hover:text-zinc-300">Privacy Policy</a>
                             <a href="#" className="hover:text-zinc-300">Terms of Service</a>
